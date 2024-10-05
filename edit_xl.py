@@ -5,7 +5,7 @@ import pandas as pd
 
 
 source_csv = 'test_csv_new.csv'
-pksz_db = "//rah-fileserver/Users/Rahba Shared Folder/Pharmacy/Pharmacy Reports/Monthly Consumption/Dashboard/Pack Size Database.xlsx"
+pksz_db = "//network/path/to/file/Pack Size Database.xlsx"
 source_xl = 'test_xl.xlsx'
 
 
